@@ -1,4 +1,4 @@
-# amazon-clone
+# Educational Project
 A responsive Amazon homepage clone built using HTML and CSS.
 
 ## Technologies Used
